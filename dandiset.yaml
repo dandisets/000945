@@ -93,11 +93,12 @@ description: 'In these recordings, we tested different PRFs (pulse repetition fr
   All 10 subjects were male rats, implanted with their chronic electrode at 6 months
   of age and then recordings taken first at 8-10 months, and then some repeats taken
   at 12 months. Within each subject''s folder are recordings for the different PRFs.
-  Most subjects have 5 recordings within, with some including repeats of recordings
-  and a few recordings not included due to detected electrical noise. Files are named
-  in the format SubjectName_PRF_PulseDuration. Each file contains spike time data
-  with the cell type labels included for each neurons, as well as time series data
-  for the onset of each trial of ultrasound stimulation.'
+  Most subjects have 5 recordings within, one for each PRF. Some subjects have duplicate
+  recordings taken a few months after the original ones. A few recordings were not
+  included due to excessive noise in the recordings. Files are named in the format
+  SubjectName_PRF_PulseDuration. Each file contains spike time data with the cell
+  type labels included for each neurons, as well as time series data for the onset
+  of each trial of ultrasound stimulation.'
 ethicsApproval: []
 id: DANDI:000945/draft
 identifier: DANDI:000945
