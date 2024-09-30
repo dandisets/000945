@@ -19,8 +19,8 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: spike sorting technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 394995296
-  numberOfFiles: 60
+  numberOfBytes: 524086736
+  numberOfFiles: 75
   numberOfSubjects: 10
   schemaKey: AssetsSummary
   species:
@@ -85,7 +85,8 @@ description: 'In these recordings, we tested different PRFs (pulse repetition fr
   chronically implanted into the rat brain. Ultrasound stimulation is delivered every
   2.5 seconds with a 10% jitter, and each recording has 500 trials. The PRFs tested
   were 30 Hz, 300 Hz, 1500 Hz, 3000 Hz, and 4500 Hz, each with a 200 microsecond pulse
-  duration and a 67 ms ultrasound duration.
+  duration and a 67 ms ultrasound duration. Anesthetized files were performed under
+  2% isoflurane anesthesia for comparison.
 
 
   File Information
