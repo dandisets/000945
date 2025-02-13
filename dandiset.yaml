@@ -31,9 +31,9 @@ assetsSummary:
   variableMeasured:
   - ElectrodeGroup
   - Units
-citation: Ramachandran, Sandhya; Gao, Huan; Yu, Kai; He, Bin (2024) Neural Spiking
+citation: Ramachandran, Sandhya; Gao, Huan; Yu, Kai; He, Bin (2025) Neural Spiking
   Data in the Awake Rat Somatosensory Cortex Responding to Trials of Transcranial
-  Focused Ultrasound Stimulation (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000945/draft
+  Focused Ultrasound Stimulation (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000945/draft
 contributor:
 - affiliation: []
   email: s.ramachandran8@gmail.com
@@ -79,6 +79,7 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2024-03-30T03:06:13.114761+00:00'
+datePublished: '2025-02-13T22:12:10.725926+00:00'
 description: "In these recordings, we tested different PRFs (pulse repetition frequencies)
   of ultrasound stimulation using a 128-element random array ultrasound transducer
   to stimulate the somatosensory cortex of awake head-fixed rats. Chronic electrophysiological
@@ -107,6 +108,18 @@ manifestLocation:
 name: Neural Spiking Data in the Awake Rat Somatosensory Cortex Responding to Trials
   of Transcranial Focused Ultrasound Stimulation
 protocol: []
+publishedBy:
+  endDate: '2025-02-13T22:12:10.725926+00:00'
+  id: urn:uuid:f3f1c9ff-884b-401f-b206-ca428e5abea2
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2025-02-13T22:12:10.725926+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:3be3402f-245a-46e3-9961-47047044f7ec
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
