@@ -33,7 +33,8 @@ assetsSummary:
   - Units
 citation: Ramachandran, Sandhya; Gao, Huan; Yu, Kai; He, Bin (2025) Neural Spiking
   Data in the Awake Rat Somatosensory Cortex Responding to Trials of Transcranial
-  Focused Ultrasound Stimulation (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/000945/draft
+  Focused Ultrasound Stimulation (Version 0.250213.2212) [Data set]. DANDI Archive.
+  https://doi.org/10.48324/dandi.000945/0.250213.2212
 contributor:
 - affiliation: []
   email: s.ramachandran8@gmail.com
@@ -97,14 +98,15 @@ description: "In these recordings, we tested different PRFs (pulse repetition fr
   in the recordings. Files are named in the format SubjectName_PRF_PulseDuration.
   Each file contains spike time data with the cell type labels included for each neurons,
   as well as time series data for the onset of each trial of ultrasound stimulation."
+doi: 10.48324/dandi.000945/0.250213.2212
 ethicsApproval: []
-id: DANDI:000945/draft
+id: DANDI:000945/0.250213.2212
 identifier: DANDI:000945
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000945/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000945/0.250213.2212/assets.yaml
 name: Neural Spiking Data in the Awake Rat Somatosensory Cortex Responding to Trials
   of Transcranial Focused Ultrasound Stimulation
 protocol: []
@@ -125,6 +127,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.7
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000945/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000945/0.250213.2212
+version: 0.250213.2212
 wasGeneratedBy: []
