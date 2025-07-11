@@ -79,7 +79,7 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2024-03-30T03:06:13.114761+00:00'
-datePublished: '2025-02-13T22:12:10.725926+00:00'
+datePublished: '2025-07-11T17:46:54.012555+00:00'
 description: "In these recordings, we tested different PRFs (pulse repetition frequencies)
   of ultrasound stimulation using a 128-element random array ultrasound transducer
   to stimulate the somatosensory cortex of awake head-fixed rats. Chronic electrophysiological
@@ -88,34 +88,37 @@ description: "In these recordings, we tested different PRFs (pulse repetition fr
   2.5 seconds with a 10% jitter, and each recording has 500 trials. The PRFs tested
   were 30 Hz, 300 Hz, 1500 Hz, 3000 Hz, and 4500 Hz, each with a 200 microsecond pulse
   duration and a 67 ms ultrasound duration. Anesthetized files were performed under
-  2% isoflurane anesthesia for comparison.\n\nFile Information\nAll 10 subjects were
-  male rats, implanted with their chronic electrode at 6 months of age and then recordings
+  2% isoflurane anesthesia for comparison.File InformationAll 10 subjects were male
+  rats, implanted with their chronic electrode at 6 months of age and then recordings
   taken first at 8-10 months, and then some repeats taken at 12 months. Within each
   subject's folder are recordings for the different PRFs. Most subjects have 5 recordings
   within, one for each PRF. Some subjects have duplicate recordings taken a few months
   after the original ones. A few recordings were not included due to excessive noise
   in the recordings. Files are named in the format SubjectName_PRF_PulseDuration.
   Each file contains spike time data with the cell type labels included for each neurons,
-  as well as time series data for the onset of each trial of ultrasound stimulation."
+  as well as time series data for the onset of each trial of ultrasound stimulation.
+  Detailed description about this dataset can be found in the following publication.
+  Please cite the paper if you would use a portion of the dataset. Ramachandran, Sandhya
+  et al. “Parameter-dependent cell-type specific effects of transcranial focused ultrasound
+  stimulation in an awake head-fixed rodent model.” Journal of neural engineering
+  vol. 22,2 026022. 19 Mar. 2025, doi:10.1088/1741-2552/adbb1f"
 ethicsApproval: []
 id: DANDI:000945/draft
 identifier: DANDI:000945
-keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000945/versions/draft/assets/
 name: Neural Spiking Data in the Awake Rat Somatosensory Cortex Responding to Trials
   of Transcranial Focused Ultrasound Stimulation
-protocol: []
 publishedBy:
-  endDate: '2025-02-13T22:12:10.725926+00:00'
-  id: urn:uuid:f3f1c9ff-884b-401f-b206-ca428e5abea2
+  endDate: '2025-07-11T17:46:54.012555+00:00'
+  id: urn:uuid:365af536-d84c-45f0-826a-ca24eb7920a4
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2025-02-13T22:12:10.725926+00:00'
+  startDate: '2025-07-11T17:46:54.012555+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:3be3402f-245a-46e3-9961-47047044f7ec
+  - id: urn:uuid:921ec407-f03e-4909-be81-a04b4c29e085
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software
@@ -124,7 +127,6 @@ relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.7
-studyTarget: []
 url: https://dandiarchive.org/dandiset/000945/draft
 version: draft
 wasGeneratedBy: []
